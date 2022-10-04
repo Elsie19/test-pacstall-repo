@@ -16,6 +16,8 @@ else
   pacdeps=("pipewire")
 fi
 
+pacdeps=('pipewire')
+
 prepare() {
   true
 }
